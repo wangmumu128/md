@@ -1,3 +1,3 @@
 display_name: MD Analysis Skills
-short_description: Literature-first MD workflows
-default_prompt: Use this skill to require keywords, survey latest five-year and classic molecular dynamics literature, propose five research directions for confirmation, then design simulation methods, model structures, LAMMPS inputs, and analysis workflows.
+short_description: Literature-first MD protocols
+default_prompt: Use this skill to require keywords, survey latest five-year and classic molecular dynamics literature, propose five research directions for confirmation, then build a button-level experiment/simulation protocol with image2 workflow and structure figures, LAMMPS inputs, analysis steps, and a Word report.
