@@ -1,3 +1,3 @@
 display_name: MD Analysis Skills
-short_description: Literature-guided MD workflows
-default_prompt: Use this skill to turn a molecular dynamics research question into literature-informed ideas, simulation models, LAMMPS input files, and analysis workflows.
+short_description: Literature-first MD workflows
+default_prompt: Use this skill to require keywords, survey latest five-year and classic molecular dynamics literature, propose five research directions for confirmation, then design simulation methods, model structures, LAMMPS inputs, and analysis workflows.
